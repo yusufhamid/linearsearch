@@ -1,0 +1,11 @@
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\bin\Debug\netcoreapp2.0\linearsearch.deps.json
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\bin\Debug\netcoreapp2.0\linearsearch.runtimeconfig.json
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\bin\Debug\netcoreapp2.0\linearsearch.runtimeconfig.dev.json
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\bin\Debug\netcoreapp2.0\linearsearch.dll
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\bin\Debug\netcoreapp2.0\linearsearch.pdb
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\obj\Debug\netcoreapp2.0\linearsearch.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\obj\Debug\netcoreapp2.0\linearsearch.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\obj\Debug\netcoreapp2.0\linearsearch.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\obj\Debug\netcoreapp2.0\linearsearch.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\obj\Debug\netcoreapp2.0\linearsearch.dll
+C:\Users\yusuf\Desktop\Datastructure-assign\linearsearch\linearsearch\obj\Debug\netcoreapp2.0\linearsearch.pdb
